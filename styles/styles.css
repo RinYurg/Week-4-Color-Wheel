@@ -1,0 +1,53 @@
+
+	.st0{fill:#D9E021;}
+	.st1{fill:#00A37C;}
+	.st2{fill:#0000FF;}
+	.st3{fill:#F7931E;}
+	.st4{fill:#4400FF;}
+	.st5{fill:#93278F;}
+	.st6{fill:#F15A24;}
+	.st7{fill:#FF0000;}
+	.st8{fill:#FFFF00;}
+	.st9{fill:#39B54A;}
+	.st10{fill:#662D91;}
+	.st11{fill:#FBB03B;}
+
+	#wheel {
+		height: 500px;
+		width: 500px;
+	}
+
+	#buttons {
+		width: 300px;
+		height: 210px;
+		border: 3px solid #444;
+		position: absolute;
+		right: 20px;
+		top: 20px;
+
+
+	}
+
+	.buttons {
+		height: 70px;
+		background-color: #EEE;
+		color: #444;
+		width: 300px;
+		font-size: 20px;
+		text-align: center;
+		font-family: helvetica;
+		text-transform: uppercase;
+
+
+
+	}
+
+	.button:hover {
+		background-color: #444;
+		color: #eee; 
+	}
+
+	.button:active {
+		background-color: #555;
+		color: yellow; 
+	}
