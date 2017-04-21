@@ -42,12 +42,12 @@
 
 	}
 
-	.button:hover {
+	.button: hover {
 		background-color: #444;
 		color: #eee; 
 	}
 
-	.button:active {
+	.button: active {
 		background-color: #555;
 		color: yellow; 
 	}
